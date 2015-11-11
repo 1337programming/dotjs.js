@@ -1,0 +1,32 @@
+{
+  "name": "dotjs.js",
+  "version": "1.0.0",
+  "description": "It's Dotjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1337programming/dotjs.js.git"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "Dot",
+    "Jay",
+    "Ess"
+  ],
+  "author": "Patrick Opie and Thomas Manion III But not really Thomas, Patrick did all of it.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1337programming/dotjs.js/issues"
+  },
+  "bin": {
+    "dotjs": "index.js"
+  },
+  "homepage": "https://github.com/1337programming/dotjs.js",
+  "devDependencies": {
+    "fs": "0.0.2",
+    "fs-extra": "^0.26.2",
+    "shelljs": "^0.5.3"
+  }
+}
