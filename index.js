@@ -3,8 +3,6 @@
 var fs = require('fs-extra');
 var shell = require('shelljs');
 
-console.log(process.argv);
-
 var userArgs = process.argv.slice(2);
 
 var inputFile = userArgs[0];
