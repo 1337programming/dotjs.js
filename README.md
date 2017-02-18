@@ -1,4 +1,4 @@
-# dotjs.js
+# Dotjs.js
 
 Dotjs.js is a node command line tool that will parse your files for evaluation of sorts.
 
